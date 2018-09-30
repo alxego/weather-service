@@ -1,0 +1,4 @@
+{
+    "current": "https://api.openweathermap.org/data/2.5/weather?APPID=05e0e9d27c8b2b67132408ee6ad5699c",
+    "forecast": "https://api.openweathermap.org/data/2.5/forecast?APPID=05e0e9d27c8b2b67132408ee6ad5699c"
+}
